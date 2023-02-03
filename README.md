@@ -1,3 +1,3 @@
 # elixir_books
-Repositorio donde que tiene código de erlang de libros.
+Repositorio donde se tiene código de elixir de libros.
 
